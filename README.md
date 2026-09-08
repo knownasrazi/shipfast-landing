@@ -32,17 +32,13 @@ cd shipfast-landing
 bun install
 bun run dev
 ```
-
-## Structure
-
-```
 shipfast-landing/
-â”œâ”€â”€ src/
-â”‚   â”œâ”€â”€ App.tsx      # app shell
-â”‚   â””â”€â”€ index.css    # cream tokens
-â”œâ”€â”€ index.html
-â”œâ”€â”€ vite.config.ts
-â””â”€â”€ package.json
+  src/
+    App.tsx      # app shell
+    index.css    # cream tokens
+  index.html
+  vite.config.ts
+  package.json
 ```
 
 ## Cream tokens
