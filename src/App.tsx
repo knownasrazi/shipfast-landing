@@ -4,9 +4,9 @@
       <div className="mx-auto max-w-3xl px-6 py-24">
         <p className="text-sm tracking-widest text-[#9a9590]">shipfast-landing</p>
         <h1 className="mt-2 text-4xl font-light tracking-tight">Ship your landing in an afternoon.</h1>
-        <p className="mt-4 max-w-prose text-[#5a5754]">High-converting landing page template - cream aesthetic, Tailwind, and motion.</p>
+        <p className="mt-4 max-w-prose text-[#5a5754]">High-converting landing page template - clean aesthetic, Tailwind, and motion.</p>
         <div className="mt-8 rounded-2xl border border-[#ebe7e0] bg-white p-6">
-          <p className="text-sm text-[#9a9590]">Cream aesthetic - built for vibe coders.</p>
+          <p className="text-sm text-[#9a9590]">Clean aesthetic - built for vibe coders.</p>
         </div>
       </div>
     </main>
